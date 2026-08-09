@@ -1,0 +1,29 @@
+# XSS2Shell
+# Scan outputs
+*.csv
+*.json
+!example/*.csv
+
+# PoC outputs
+pocs/
+!example/pocs/
+
+# Cache
+.wp_stable_check_cache.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
