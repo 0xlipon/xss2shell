@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/CVSS-8.9-high?style=for-the-badge&color=crimson" alt="CVSS 8.9">
   <img src="https://img.shields.io/badge/discovered_by-pwn.ai-7fd1ff?style=for-the-badge" alt="pwn.ai">
   <img src="https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.8+">
-  <img src="https://img.shields.io/github/license/jakestone/xss2shell?style=for-the-badge" alt="License">
 </p>
 
 <h1 align="center">🔥 XSS2Shell — CVE-2026-64638 Scanner &amp; PoC Toolkit</h1>
