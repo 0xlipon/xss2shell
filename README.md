@@ -14,7 +14,7 @@
   <i>Detection only. No weaponization. Built for bug bounty programs and blue teams.</i>
 </p>
 
-<h4>Official Checker: https://pwn.ai/xss2shell-checker.html</h4>
+<h4 align="center">Official Checker: https://pwn.ai/xss2shell-checker.html</h4>
 
 <p align="center">
   <a href="#-what-is-cve-2026-64638">What is this?</a> •
