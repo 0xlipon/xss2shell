@@ -1,0 +1,12 @@
+# Example input file for XSS2Shell mass scanner
+# One host per line. Formats accepted:
+#   example.com            (bare domain — HTTP probed first)
+#   https://example.com    (full URL — forces HTTPS)
+#   http://blog.example.com
+#   Lines starting with # are comments
+
+wordpress.org
+# patched — 7.0.3+
+
+example.com
+# add your targets below
