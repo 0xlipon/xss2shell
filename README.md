@@ -332,5 +332,5 @@ A: No. This toolkit detects the **pre-auth XSS entry point**. The full RCE chain
 ---
 
 <p align="center">
-  <sub>Built by <a href="https://github.com/jakestone">Jake Stone</a> • Detection-only • For authorized use only</sub>
+  <sub>Built by <a href="https://github.com/0xlipon">0xlipon</a> • Detection-only • For authorized use only</sub>
 </p>
