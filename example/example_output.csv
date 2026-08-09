@@ -1,0 +1,5 @@
+host,url,status,checker_status,wp_version,branch_status,evidence,http,ms,error
+example.com,https://example.com,confirmed_vulnerable,vulnerable,7.0.2,insecure,"v7.0.2 home:asset; login:ok; gadget:yes; jsonp:yes; probe:bypass; version insecure AND probe marker survived as <area> element (strip_tags/KSES mismatch confirmed); gadget present; REST JSONP open",200,1250,
+wordpress.org,https://wordpress.org,patched,patched,7.0.3,latest,"v7.0.3 home:asset; login:ok; gadget:yes; v7.0.3 has CVE-2026-64638 backport (latest)",200,980,
+another-site.com,https://another-site.com,mitigated,patched,6.7.2,insecure,"v6.7.2 home:meta; login:ok; gadget:yes; probe:escaped; v6.7.2 insecure per wordpress.org BUT probe marker was escaped (managed-host silent backport or login hardening) - chain cannot fire as published",200,1100,
+not-wp.com,https://not-wp.com,not_wordpress,not_wordpress,,,,0,500,
